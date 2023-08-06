@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Uniconv</string>
+    <string name="convert">Convert</string>
+    <string name="to">to</string>
+
+    <string name="value">Value</string>
+    <string name="magnitude">Magnitude</string>
+    <string name="origin">Origin unit</string>
+    <string name="target">Target unit</string>
+
+    <string name="length">Length</string>
+    <string name="weight">Weight</string>
+    <string name="time">Time</string>
+    <string name="heat">Temperature</string>
+    <string name="area">Area</string>
+    <string name="volume">Volume</string>
+    <string name="speed">Speed</string>
+    <string name="electric_current">Electric current</string>
+    <string name="power">Power</string>
+</resources>

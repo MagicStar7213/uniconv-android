@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Uniconv</string>
+    <string name="convert">Convertir</string>
+    <string name="to">a</string>
+
+    <string name="value">Valor</string>
+    <string name="magnitude">Magnitud</string>
+    <string name="origin">Unidad de Origen</string>
+    <string name="target">Unidad de Destino</string>
+
+    <string name="length">Longitud</string>
+    <string name="weight">Peso</string>
+    <string name="time">Tiempo</string>
+    <string name="heat">Temperatura</string>
+    <string name="area">Superficie</string>
+    <string name="volume">Volumen</string>
+    <string name="speed">Velocidad</string>
+    <string name="electric_current">Corriente el\u00e9ctrica</string>
+    <string name="power">Potencia</string>
+</resources>
