@@ -29,7 +29,6 @@ import io.magicstar.uniconv.R
 import io.magicstar.uniconv.ui.theme.*
 
 import io.magicstar.uniconv.unit.*
-import java.nio.file.*
 
 @OptIn(ExperimentalMaterial3Api::class, ExperimentalComposeUiApi::class)
 @SuppressLint("MutableCollectionMutableState")
